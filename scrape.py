@@ -110,7 +110,7 @@ start_time = time.time()
 
 try:
     print("🚀 Starting multithreaded scraper with improved signal handling...\n")
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=25) as executor:
         futures = [executor.submit(process_city, row) for _, row in cities.iterrows()]
         for future in as_completed(futures):
             if stop_event.is_set():

@@ -65,16 +65,6 @@ La Plata,Argentina,Curutchet House
 La Plata,Argentina,Estadio Jorge Luis Hirschi
 La Plata,Argentina,La Plata Museum
 La Plata,Argentina,Teatro Argentino de La Plata
-San Antonio,Argentina,Acequia Park
-San Antonio,Argentina,Alamo City Comic Con
-San Antonio,Argentina,Aquatica 
-San Antonio,Argentina,Artpace
-San Antonio,Argentina,Brackenridge Park
-San Antonio,Argentina,Brackenridge Park Golf Course
-San Antonio,Argentina,Buckhorn Saloon & Museum 
-San Antonio,Argentina,Dwight D. Eisenhower Park 
-San Antonio,Argentina,Fiesta San Antonio
-San Antonio,Argentina,Fort Sam Houston National Cemetery
 Palermo,Argentina,Albergaria 
 Palermo,Argentina,Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale
 Palermo,Argentina,Catacombe dei Cappuccini
@@ -85,16 +75,6 @@ Palermo,Argentina,Mondello
 Palermo,Argentina,"Monte di Pietà, Palermo"
 Palermo,Argentina,Mount Pellegrino
 Palermo,Argentina,Ponte dell'Ammiraglio
-San Francisco,Argentina,Connie Chan
-San Francisco,Argentina,Stephen Sherrill
-San Francisco,Argentina,Danny Sauter
-San Francisco,Argentina,Joel Engardio
-San Francisco,Argentina,Bilal Mahmood
-San Francisco,Argentina,Matt Dorsey
-San Francisco,Argentina,Myrna Melgar
-San Francisco,Argentina,Rafael Mandelman
-San Francisco,Argentina,Jackie Fielder
-San Francisco,Argentina,Shamann Walton
 Ticino,Argentina,Ascona Jazz Festival
 Ticino,Argentina,Brissago Islands
 Ticino,Argentina,Castles of Bellinzona
@@ -105,16 +85,6 @@ Ticino,Argentina,Lugano Cathedral
 Ticino,Argentina,"Madonna del Sasso, Switzerland"
 Ticino,Argentina,Memorial Mario Albisetti
 Ticino,Argentina,Monte Verità
-Puerto Rico,Argentina,Porta del Sol
-Puerto Rico,Argentina,Porta Caribe
-Puerto Rico,Argentina,Porta Antillas
-Puerto Rico,Argentina,Porta Cordillera
-Puerto Rico,Argentina,Porta Atlántico
-Puerto Rico,Argentina,Balneario de Rincón
-Puerto Rico,Argentina,Boquerón
-Puerto Rico,Argentina,El Tuque
-Puerto Rico,Argentina,Cayos de Caña Gorda
-Puerto Rico,Argentina,Crash Boat Beach
 Gyumri,Armenia,Kumayri historic district
 Gyumri,Armenia,"Mother Armenia, Gyumri"
 Yerevan,Armenia,"Blue Mosque, Yerevan"
@@ -147,16 +117,6 @@ Aberdeen,Australia,Culture in Aberdeen
 Aberdeen,Australia,Doonies Farm
 Aberdeen,Australia,"King's College, Aberdeen"
 Aberdeen,Australia,Mitchell's Hospital Old Aberdeen
-Alexandria,Australia,Alexandria National Museum
-Alexandria,Australia,Alexandria Naval Unknown Soldier Memorial
-Alexandria,Australia,Bibliotheca Alexandrina
-Alexandria,Australia,Catacombs of Kom El Shoqafa
-Alexandria,Australia,El Nouzha Airport
-Alexandria,Australia,"Marina, Egypt"
-Alexandria,Australia,List of mosques in Alexandria
-Alexandria,Australia,Shallalat Gardens
-Alexandria,Australia,"Tahrir Square, Alexandria"
-Alexandria,Australia,Alexandria Zoo
 Barnsley,Australia,Burntwood Hall
 Barnsley,Australia,Cannon Hall
 Barnsley,Australia,Cannon Hall Farm
@@ -167,10 +127,16 @@ Barnsley,Australia,Houndhill
 Barnsley,Australia,Monk Bretton Priory
 Barnsley,Australia,RSPB Dearne Valley Old Moor
 Barnsley,Australia,Wentworth Castle
-Camden,Australia,"Category:Tourist attractions in Camden County, Georgia"
-Camden,Australia,"Category:Tourist attractions in Camden County, Missouri"
-Camden,Australia,"Category:Tourist attractions in Camden County, New Jersey"
-Camden,Australia,"Category:Tourist attractions in Camden County, North Carolina"
+Alexandria,Australia,Alexandria National Museum
+Alexandria,Australia,Alexandria Naval Unknown Soldier Memorial
+Alexandria,Australia,Bibliotheca Alexandrina
+Alexandria,Australia,Catacombs of Kom El Shoqafa
+Alexandria,Australia,El Nouzha Airport
+Alexandria,Australia,"Marina, Egypt"
+Alexandria,Australia,List of mosques in Alexandria
+Alexandria,Australia,Shallalat Gardens
+Alexandria,Australia,"Tahrir Square, Alexandria"
+Alexandria,Australia,Alexandria Zoo
 Cardiff,Australia,Cardiff Bay
 Cardiff,Australia,Cardiff Centenary Walk
 Cardiff,Australia,Cardiff Central Library
@@ -181,6 +147,10 @@ Cardiff,Australia,Leisure centres in Cardiff
 Cardiff,Australia,List of cultural venues in Cardiff
 Cardiff,Australia,List of shopping arcades in Cardiff
 Cardiff,Australia,Mermaid Quay
+Camden,Australia,"Category:Tourist attractions in Camden County, Georgia"
+Camden,Australia,"Category:Tourist attractions in Camden County, Missouri"
+Camden,Australia,"Category:Tourist attractions in Camden County, New Jersey"
+Camden,Australia,"Category:Tourist attractions in Camden County, North Carolina"
 Como,Australia,Life Electric
 Liverpool,Australia,Liverpool
 Liverpool,Australia,Liverpool City Region § Economy
@@ -212,16 +182,6 @@ Toronto,Australia,Notable Torontonians
 Toronto,Australia,Oldest buildings
 Toronto,Australia,Lost
 Toronto,Australia,National Historic Sites
-Wollongong,Australia,Breakwater Battery
-Wollongong,Australia,Grand Pacific Drive
-Wollongong,Australia,Illawarra escarpment
-Wollongong,Australia,Illawarra Folk Festival
-Wollongong,Australia,Illawarra Grevillea Park
-Wollongong,Australia,Lake Illawarra
-Wollongong,Australia,Lawrence Hargrave Drive
-Wollongong,Australia,Nan Tien Temple
-Wollongong,Australia,North Beach Precinct
-Wollongong,Australia,Sea Cliff Bridge
 Wyoming,Australia,Fort Bridger Rendezvous
 Wyoming,Australia,Historic Cody Mural Chapel
 Wyoming,Australia,Vedauwoo
@@ -235,6 +195,26 @@ Alice Springs,Australia,Emily Gap
 Alice Springs,Australia,Honeymoon Gap
 Alice Springs,Australia,Lasseters Hotel Casino
 Alice Springs,Australia,Olive Pink Botanic Garden
+Wollongong,Australia,Breakwater Battery
+Wollongong,Australia,Grand Pacific Drive
+Wollongong,Australia,Illawarra escarpment
+Wollongong,Australia,Illawarra Folk Festival
+Wollongong,Australia,Illawarra Grevillea Park
+Wollongong,Australia,Lake Illawarra
+Wollongong,Australia,Lawrence Hargrave Drive
+Wollongong,Australia,Nan Tien Temple
+Wollongong,Australia,North Beach Precinct
+Wollongong,Australia,Sea Cliff Bridge
+Edmonton,Australia,KML
+Edmonton,Australia,GPX 
+Edmonton,Australia,124 Street
+Edmonton,Australia,Alberta Legislature Building
+Edmonton,Australia,Big Things
+Edmonton,Australia,"Chinatown and Little Italy, Edmonton"
+Edmonton,Australia,Churchill Square 
+Edmonton,Australia,Citadel Theatre
+Edmonton,Australia,Commonwealth Stadium
+Edmonton,Australia,Downtown Edmonton
 Miami,Australia,Barry University
 Miami,Australia,Miami Shores
 Miami,Australia,Broward College
@@ -272,6 +252,24 @@ Adelaide,Australia,Beaumont House
 Adelaide,Australia,Adelaide Casino
 Peterhead,Australia,Reform Monument
 Peterhead,Australia,"Statue of Marshal Keith, Peterhead"
+Cambridge,Australia,Cambridge Museum of Technology
+Cambridge,Australia,University of Cambridge
+Cambridge,Australia,Cambridge Castle
+Cambridge,Australia,Colleges of the University of Cambridge
+Cambridge,Australia,Corpus Clock
+Cambridge,Australia,Jesus Green Swimming Pool
+Cambridge,Australia,King's Parade
+Cambridge,Australia,"Market Hill, Cambridge"
+Cambridge,Australia,River Cam
+Cambridge,Australia,Trinity College Clock
+Howrah,Australia,Howrah Bridge
+Howrah,Australia,Howrah railway station
+Howrah,Australia,Nabanna 
+Howrah,Australia,"Rail Museum, Howrah"
+Howrah,Australia,Ramakrishna Mission
+Howrah,Australia,Santragachhi
+Howrah,Australia,Vidyasagar Setu
+Howrah,Australia,Vivekananda Setu
 Dorset,Australia,List of ceremonial counties in England by gross value added
 Dorset,Australia,"Bournemouth, Christchurch and Poole"
 Dorset,Australia,areas and suburbs
@@ -292,14 +290,6 @@ Hobart,Australia,Glenorchy Art and Sculpture Park
 Hobart,Australia,Gunners Quoin
 Hobart,Australia,Hobart Cenotaph
 Hobart,Australia,Hobart Synagogue
-Howrah,Australia,Howrah Bridge
-Howrah,Australia,Howrah railway station
-Howrah,Australia,Nabanna 
-Howrah,Australia,"Rail Museum, Howrah"
-Howrah,Australia,Ramakrishna Mission
-Howrah,Australia,Santragachhi
-Howrah,Australia,Vidyasagar Setu
-Howrah,Australia,Vivekananda Setu
 Sheffield,Australia,Abbeydale Industrial Hamlet
 Sheffield,Australia,Arts Tower
 Sheffield,Australia,Beauchief Abbey
@@ -310,6 +300,22 @@ Sheffield,Australia,Cutlers' Hall
 Sheffield,Australia,Devonshire Green
 Sheffield,Australia,Don Valley Stadium
 Sheffield,Australia,The Dore Stone
+Blackburn,Australia,Blackburn Cathedral
+Blackburn,Australia,Blackburn Museum and Art Gallery
+Blackburn,Australia,Blackburn War Memorial
+Blackburn,Australia,West Pennine Moors
+Blackburn,Australia,Winter Hill 
+Blackburn,Australia,Witton Weavers Way
+Ballarat,Australia,Melbourne
+Ballarat,Australia,Geelong
+Ballarat,Australia,Bendigo
+Ballarat,Australia,Eureka
+Ballarat,Australia,Ripon
+Ballarat,Australia,Wendouree
+Ballarat,Australia,Voice FM 99.9
+Ballarat,Australia,ABC Ballarat
+Ballarat,Australia,Good News Radio 103.9
+Ballarat,Australia,WIN
 Dallas,Australia,Children's Aquarium at Fair Park
 Dallas,Australia,Dallas Waterfall Billboard
 Dallas,Australia,Dallas World Aquarium
@@ -330,6 +336,16 @@ Doncaster,Australia,Elsecar Heritage Railway
 Doncaster,Australia,Hatfield Manor House
 Doncaster,Australia,Highfields Lake
 Doncaster,Australia,Sandall Park
+Geelong,Australia,"Adventure Park, Geelong"
+Geelong,Australia,Australian International Airshow
+Geelong,Australia,Balyang Sanctuary
+Geelong,Australia,Eastern Beach 
+Geelong,Australia,Ford Discovery Centre
+Geelong,Australia,Gala Day
+Geelong,Australia,Geelong Arts Centre
+Geelong,Australia,Geelong Botanic Gardens
+Geelong,Australia,Geelong Carousel
+Geelong,Australia,Geelong Cup
 Lucknow,Australia,Bara Imambara
 Lucknow,Australia,Chhota Imambara
 Lucknow,Australia,Imambara Shah Najaf
@@ -373,16 +389,6 @@ Vermont,Australia,Interstate 89
 Vermont,Australia,White River Junction
 Vermont,Australia,Montpelier
 Vermont,Australia,Burlington
-Cambridge,Australia,Cambridge Museum of Technology
-Cambridge,Australia,University of Cambridge
-Cambridge,Australia,Cambridge Castle
-Cambridge,Australia,Colleges of the University of Cambridge
-Cambridge,Australia,Corpus Clock
-Cambridge,Australia,Jesus Green Swimming Pool
-Cambridge,Australia,King's Parade
-Cambridge,Australia,"Market Hill, Cambridge"
-Cambridge,Australia,River Cam
-Cambridge,Australia,Trinity College Clock
 Denmark,Australia,Copenhagen Concert Hall
 Denmark,Australia,Copenhagen Opera House
 Denmark,Australia,Royal Danish Theatre
@@ -469,3 +475,633 @@ Vienna,Austria,Max Perutz
 Vienna,Austria,Computer Science
 Vienna,Austria,Heinz Zemanek
 Vienna,Austria,Chemistry
+Brahmanbaria,Bangladesh,Brahmanbaria Sadar Upazila
+Brahmanbaria,Bangladesh,Kasba Upazila
+Brahmanbaria,Bangladesh,Akhaura Upazila
+Brahmanbaria,Bangladesh,Ashuganj Upazila
+Brahmanbaria,Bangladesh,Bancharampur Upazila
+Brahmanbaria,Bangladesh,Bijoynagar Upazila
+Brahmanbaria,Bangladesh,Nasirnagar Upazila
+Brahmanbaria,Bangladesh,Nabinagar Upazila
+Brahmanbaria,Bangladesh,Sarail Upazila
+Brahmanbaria,Bangladesh,Brahmanbaria-1
+Brussels,Belgium,Accessible Art Fair
+Brussels,Belgium,Ancienne Belgique
+Brussels,Belgium,"Anglo-Belgian Memorial, Brussels"
+Brussels,Belgium,Anspach Fountain
+Brussels,Belgium,Atomium
+Brussels,Belgium,"Basilica of the Sacred Heart, Brussels"
+Brussels,Belgium,"Belgian Infantry Memorial, Brussels"
+Brussels,Belgium,Black Tower 
+Brussels,Belgium,Brussels Cemetery
+Brussels,Belgium,Brussels Christmas tree
+Somerset,Bermuda,Bath and North East Somerset
+Somerset,Bermuda,North Somerset
+Somerset,Bermuda,Somerset Council
+Somerset,Bermuda,Axbridge
+Somerset,Bermuda,Bridgwater
+Somerset,Bermuda,Bruton
+Somerset,Bermuda,Burnham-on-Sea
+Somerset,Bermuda,Castle Cary
+Somerset,Bermuda,Chard
+Somerset,Bermuda,Clevedon
+Sonora,Brazil,Hermosillo International Airport
+Sonora,Brazil,Guaymas International Airport
+Sonora,Brazil,Lake Oviáchic
+Sonora,Brazil,Mar de Cortés International Airport
+Sonora,Brazil,Náinari Lake
+Medina,Brazil,Hejaz Railway Museum
+Medina,Brazil,Al-Madinah Museum
+Medina,Brazil,Al-Salam Museum
+Malta,Brazil,List of museums in Malta
+Malta,Brazil,Julesys BnB Beaches & Bays Guide
+Malta,Brazil,Archived
+Malta,Brazil,Wayback Machine
+Malta,Brazil,Malta Tourism Guide
+Malta,Brazil,Albania
+Malta,Brazil,Andorra
+Malta,Brazil,Armenia
+Malta,Brazil,Austria
+Malta,Brazil,Azerbaijan
+Curitiba,Brazil,Landmarks in Curitiba
+Curitiba,Brazil,Pedreira Paulo Leminski
+Curitiba,Brazil,Rua 24 Horas
+Curitiba,Brazil,Rua XV de Novembro
+Buenos Aires,Brazil,Timeline
+Buenos Aires,Brazil,Climate
+Buenos Aires,Brazil,Tourism
+Buenos Aires,Brazil,Category
+Alexandria,Brazil,Alexandria National Museum
+Alexandria,Brazil,Alexandria Naval Unknown Soldier Memorial
+Alexandria,Brazil,Bibliotheca Alexandrina
+Alexandria,Brazil,Catacombs of Kom El Shoqafa
+Alexandria,Brazil,El Nouzha Airport
+Alexandria,Brazil,"Marina, Egypt"
+Alexandria,Brazil,List of mosques in Alexandria
+Alexandria,Brazil,Shallalat Gardens
+Alexandria,Brazil,"Tahrir Square, Alexandria"
+Alexandria,Brazil,Alexandria Zoo
+Macau,Brazil,Macanese Pataca
+Macau,Brazil,Banknotes
+Macau,Brazil,Coins
+Macau,Brazil,Monetary Authority
+Macau,Brazil,Transport
+Macau,Brazil,Tourism
+Macau,Brazil,Postal
+Macau,Brazil,Port
+Macau,Brazil,Gambling
+Macau,Brazil,Airport
+Barcelona,Brazil,Ciutat Vella
+Barcelona,Brazil,Eixample
+Barcelona,Brazil,Gràcia
+Barcelona,Brazil,Horta-Guinardó
+Barcelona,Brazil,Les Corts
+Barcelona,Brazil,Nou Barris
+Barcelona,Brazil,Sant Andreu
+Barcelona,Brazil,Sants–Montjuïc
+Barcelona,Brazil,Sarrià-Sant Gervasi
+Barcelona,Brazil,Sant Martí
+Edmonton,Canada,KML
+Edmonton,Canada,GPX 
+Edmonton,Canada,124 Street
+Edmonton,Canada,Alberta Legislature Building
+Edmonton,Canada,Big Things
+Edmonton,Canada,"Chinatown and Little Italy, Edmonton"
+Edmonton,Canada,Churchill Square 
+Edmonton,Canada,Citadel Theatre
+Edmonton,Canada,Commonwealth Stadium
+Edmonton,Canada,Downtown Edmonton
+Fredericton,Canada,Christ Church Cathedral 
+Fredericton,Canada,Fredericton Botanic Garden
+Fredericton,Canada,Fredericton Marathon
+Fredericton,Canada,The Playhouse 
+Fredericton,Canada,St. Anne's Chapel 
+Fredericton,Canada,Sir Howard Douglas Hall
+Fredericton,Canada,Thomas Temple Fountain
+Moncton,Canada,Capitol Theatre 
+Moncton,Canada,Casino New Brunswick
+Moncton,Canada,Legs for Literacy
+Moncton,Canada,Magic Mountain 
+Moncton,Canada,Magnetic Hill 
+Moncton,Canada,Magnetic Hill Concert Site
+Moncton,Canada,Magnetic Hill Zoo
+Moncton,Canada,Moncton Public Library
+Moncton,Canada,Touchdown Atlantic
+Brussels,Canada,Accessible Art Fair
+Brussels,Canada,Ancienne Belgique
+Brussels,Canada,"Anglo-Belgian Memorial, Brussels"
+Brussels,Canada,Anspach Fountain
+Brussels,Canada,Atomium
+Brussels,Canada,"Basilica of the Sacred Heart, Brussels"
+Brussels,Canada,"Belgian Infantry Memorial, Brussels"
+Brussels,Canada,Black Tower 
+Brussels,Canada,Brussels Cemetery
+Brussels,Canada,Brussels Christmas tree
+Cambridge,Canada,Cambridge Museum of Technology
+Cambridge,Canada,University of Cambridge
+Cambridge,Canada,Cambridge Castle
+Cambridge,Canada,Colleges of the University of Cambridge
+Cambridge,Canada,Corpus Clock
+Cambridge,Canada,Jesus Green Swimming Pool
+Cambridge,Canada,King's Parade
+Cambridge,Canada,"Market Hill, Cambridge"
+Cambridge,Canada,River Cam
+Cambridge,Canada,Trinity College Clock
+Cornwall,Canada,Barbara Hepworth Museum
+Cornwall,Canada,Bodmin and Wenford Railway
+Cornwall,Canada,Bodmin Moor
+Cornwall,Canada,Bodmin Parish Church
+Cornwall,Canada,Cardinham
+Cornwall,Canada,Carn Euny
+Cornwall,Canada,Carn Leskys
+Cornwall,Canada,Carrick Roads
+Cornwall,Canada,Castle An Dinas
+Cornwall,Canada,Cheesewring
+London,Canada,British Museum
+London,Canada,Tate Modern
+London,Canada,National Gallery
+London,Canada,"Natural History Museum, London"
+London,Canada,Victoria and Albert Museum
+London,Canada,"Science Museum, London"
+London,Canada,Southbank Centre
+London,Canada,Somerset House
+London,Canada,Tower of London
+London,Canada,Royal Museums Greenwich
+Paris,Canada,Centre Georges-Pompidou
+Paris,Canada,Paris Museum of Modern Art
+Paris,Canada,Cité des Sciences et de l'Industrie
+Paris,Canada,The Louvre
+Paris,Canada,Musée des Arts et Métiers
+Paris,Canada,Conservatoire National des Arts et Métiers
+Paris,Canada,Musée d'Orsay
+Paris,Canada,Impressionist
+Paris,Canada,Musée de l'Orangerie
+Paris,Canada,Post-Impressionist
+Toronto,Canada,General outline
+Toronto,Canada,Demographics
+Toronto,Canada,Name
+Toronto,Canada,Flag
+Toronto,Canada,Coat of arms
+Toronto,Canada,Sister cities
+Toronto,Canada,Notable Torontonians
+Toronto,Canada,Oldest buildings
+Toronto,Canada,Lost
+Toronto,Canada,National Historic Sites
+York,Canada,List of York sites of interest
+York,Canada,DIG: An Archaeological Adventure
+York,Canada,Jorvik Viking Centre
+York,Canada,"Mansion House, York"
+York,Canada,National Centre for Early Music
+York,Canada,The Shambles
+York,Canada,Shambles Market
+York,Canada,Snickelways of York
+York,Canada,York Castle
+York,Canada,York city walls
+Mauricie,Canada,"Borealis, history center of the paper industry"
+Mauricie,Canada,Musée québécois de culture populaire
+Mauricie,Canada,Old Prison of Trois-Rivières
+Mauricie,Canada,National Historic Site of Canada Forges du Saint-Maurice
+Mauricie,Canada,Melville Island Park
+Mauricie,Canada,La Mauricie National Park
+Mauricie,Canada,Mastigouche Wildlife Reserve
+Mauricie,Canada,Saint-Maurice Wildlife Reserve
+Mauricie,Canada,Batiscan River Park
+Mauricie,Canada,White Lake
+Outaouais,Canada,Camp Fortune
+Outaouais,Canada,Casino du Lac-Leamy
+Outaouais,Canada,Château Montebello
+Outaouais,Canada,Coulonge Chutes
+Outaouais,Canada,Félix-Gabriel-Marchand Bridge
+Outaouais,Canada,Manoir Papineau
+Outaouais,Canada,Mont Ste. Marie
+Outaouais,Canada,Parc Omega
+Outaouais,Canada,Les Promenades Gatineau
+Outaouais,Canada,Sommet Edelweiss
+Datong,China,Datong Mass Grave Memorial
+Datong,China,Huayan Temple 
+Xucheng,China,Xie Tiao Tower
+Zhaoqing,China,Qingyun Temple 
+Shijiazhuang,China,Linji Temple
+Shijiazhuang,China,Tiantai Temple 
+Zaragoza,Colombia,Aljafería
+Zaragoza,Colombia,World Heritage Site
+Zaragoza,Colombia,Old Stock Exchange
+Zaragoza,Colombia,Stone bridge
+Zaragoza,Colombia,La Seo Cathedral
+Zaragoza,Colombia,Pere Johan
+Zaragoza,Colombia,El Pilar Basilica
+Zaragoza,Colombia,alabaster
+Zaragoza,Colombia,Damián Forment
+Zaragoza,Colombia,frescoes
+Buenos Aires,Colombia,Timeline
+Buenos Aires,Colombia,Climate
+Buenos Aires,Colombia,Tourism
+Buenos Aires,Colombia,Category
+Medina,Colombia,Hejaz Railway Museum
+Medina,Colombia,Al-Madinah Museum
+Medina,Colombia,Al-Salam Museum
+La Plata,Colombia,Cathedral of La Plata
+La Plata,Colombia,Estadio Único Diego Armando Maradona
+La Plata,Colombia,Curutchet House
+La Plata,Colombia,Estadio Jorge Luis Hirschi
+La Plata,Colombia,La Plata Museum
+La Plata,Colombia,Teatro Argentino de La Plata
+Madrid,Colombia,El Madrid de los Austrias
+Madrid,Colombia,El Capricho Park
+Madrid,Colombia,Forest of Remembrance
+Madrid,Colombia,Imperial Route of the Community of Madrid
+Madrid,Colombia,Madrid Planetarium
+Madrid,Colombia,Market of San Miguel
+Madrid,Colombia,Matadero Madrid
+Madrid,Colombia,Micropolix
+Madrid,Colombia,Museo Casa de la Moneda 
+Madrid,Colombia,Palacio de Cristal del Retiro
+Palermo,Colombia,Albergaria 
+Palermo,Colombia,Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale
+Palermo,Colombia,Catacombe dei Cappuccini
+Palermo,Colombia,"Cassaro, Palermo"
+Palermo,Colombia,"Castellammare, Palermo"
+Palermo,Colombia,Kalsa
+Palermo,Colombia,Mondello
+Palermo,Colombia,"Monte di Pietà, Palermo"
+Palermo,Colombia,Mount Pellegrino
+Palermo,Colombia,Ponte dell'Ammiraglio
+Buenos Aires,Costa Rica,Timeline
+Buenos Aires,Costa Rica,Climate
+Buenos Aires,Costa Rica,Tourism
+Buenos Aires,Costa Rica,Category
+Havana,Cuba,El Capitolio
+Havana,Cuba,Palacio de los Capitanes Generales
+Havana,Cuba,Palacio del Segundo Cabo
+Havana,Cuba,Cuartel de Milicias
+Havana,Cuba,La Cabaña
+Havana,Cuba,Castillo de la Real Fuerza
+Havana,Cuba,Castillo San Salvador de la Punta
+Havana,Cuba,Morro Castle
+Havana,Cuba,Castillo del Príncipe
+Havana,Cuba,Torreón de la Chorrera
+Aarhus,Denmark,Aarhus Botanical Gardens
+Aarhus,Denmark,Aarhus Cathedral
+Aarhus,Denmark,Aarhus Custom House
+Aarhus,Denmark,ARoS Aarhus Kunstmuseum
+Aarhus,Denmark,Church of Our Lady 
+Aarhus,Denmark,Den Gamle By
+Aarhus,Denmark,Gender Museum Denmark
+Aarhus,Denmark,Kunsthal Aarhus
+Aarhus,Denmark,Marselisborg Palace
+Aarhus,Denmark,Moesgaard Museum
+Djibouti,Djibouti,"New European Cemetery, Djibouti"
+Alexandria,Egypt,Alexandria National Museum
+Alexandria,Egypt,Alexandria Naval Unknown Soldier Memorial
+Alexandria,Egypt,Bibliotheca Alexandrina
+Alexandria,Egypt,Catacombs of Kom El Shoqafa
+Alexandria,Egypt,El Nouzha Airport
+Alexandria,Egypt,"Marina, Egypt"
+Alexandria,Egypt,List of mosques in Alexandria
+Alexandria,Egypt,Shallalat Gardens
+Alexandria,Egypt,"Tahrir Square, Alexandria"
+Alexandria,Egypt,Alexandria Zoo
+Guayaquil,Ecuador,Guayaquil Metropolitan Cathedral
+Guayaquil,Ecuador,Malecón Simón Bolívar
+Guayaquil,Ecuador,Museo Antropologico y de Arte Contemporaneo
+Guayaquil,Ecuador,Presley Norton Museum
+Guayaquil,Ecuador,Santa Ana Hill
+Zaragoza,El Salvador,Aljafería
+Zaragoza,El Salvador,World Heritage Site
+Zaragoza,El Salvador,Old Stock Exchange
+Zaragoza,El Salvador,Stone bridge
+Zaragoza,El Salvador,La Seo Cathedral
+Zaragoza,El Salvador,Pere Johan
+Zaragoza,El Salvador,El Pilar Basilica
+Zaragoza,El Salvador,alabaster
+Zaragoza,El Salvador,Damián Forment
+Zaragoza,El Salvador,frescoes
+Colmar,France,"Ancienne Douane, Colmar"
+Colmar,France,"St Martin's Church, Colmar"
+Colmar,France,Théâtre municipal de Colmar
+Lille,France,Maison folie de Wazemmes
+Lille,France,Maison Folie Moulins
+Lille,France,Citadel of Lille
+Lille,France,Column of the Goddess
+Lille,France,Hospice Comtesse
+Lille,France,Jardin botanique de la Faculté de Pharmacie
+Lille,France,Jardin botanique Nicolas Boulay
+Lille,France,Jardin des plantes de Lille
+Lille,France,University of Lille Nord de France
+Lille,France,Musée d'Histoire Naturelle de Lille
+Paris,France,Centre Georges-Pompidou
+Paris,France,Paris Museum of Modern Art
+Paris,France,Cité des Sciences et de l'Industrie
+Paris,France,The Louvre
+Paris,France,Musée des Arts et Métiers
+Paris,France,Conservatoire National des Arts et Métiers
+Paris,France,Musée d'Orsay
+Paris,France,Impressionist
+Paris,France,Musée de l'Orangerie
+Paris,France,Post-Impressionist
+Manche,France,"Beauvoir, Manche"
+Manche,France,Brittany American Cemetery and Memorial
+Manche,France,Champrepus
+Manche,France,Chemin de fer touristique du Cotentin
+Manche,France,GR 34
+Manche,France,Mont-Saint-Michel Abbey
+Manche,France,Montaigu-la-Brisette
+Manche,France,Mont-Saint-Michel
+Manche,France,Normandie-Maine Regional Natural Park
+Manche,France,Savigny Abbey
+Charente,France,Angoulême International Comics Festival
+Macau,France,Macanese Pataca
+Macau,France,Banknotes
+Macau,France,Coins
+Macau,France,Monetary Authority
+Macau,France,Transport
+Macau,France,Tourism
+Macau,France,Postal
+Macau,France,Port
+Macau,France,Gambling
+Macau,France,Airport
+Gers,France,Flaran Abbey
+Gers,France,Forêt de Bouconne
+Gers,France,Tempo Latino
+Aix-en-Provence,France,Aix Cathedral
+Aix-en-Provence,France,Aix-en-Provence Festival
+Aix-en-Provence,France,Camp des Milles
+Aix-en-Provence,France,Cézanne's studio
+Aix-en-Provence,France,Cross of Provence
+Aix-en-Provence,France,Museum d'Histoire Naturelle Aix-en-Provence
+Aix-en-Provence,France,Quartier Mazarin
+Aix-en-Provence,France,Église Saint-Jean-de-Malte
+Aix-en-Provence,France,Théâtre de l'Archevêché
+Hautes-Alpes,France,Demoiselles Coiffées de Pontis
+Hautes-Alpes,France,Écrins National Park
+Hautes-Alpes,France,Orcières-Merlette
+Mannheim,Germany,KML
+Mannheim,Germany,GPX 
+Mannheim,Germany,Fernmeldeturm Mannheim
+Mannheim,Germany,International Filmfestival Mannheim-Heidelberg
+Mannheim,Germany,"Jesuit Church, Mannheim"
+Mannheim,Germany,Kunsthalle Mannheim
+Mannheim,Germany,Luisenpark
+Mannheim,Germany,Mannheim May Market
+Mannheim,Germany,Maimarktgelände
+Mannheim,Germany,Mannheim National Theatre
+Münster,Germany,Münster astronomical clock
+Münster,Germany,Münster Zoo
+Oberhausen,Germany,KML
+Oberhausen,Germany,GPX 
+Oberhausen,Germany,Gasometer Oberhausen
+Oberhausen,Germany,International Short Film Festival Oberhausen
+Oberhausen,Germany,Rudolf Weber-Arena
+Oberhausen,Germany,LVR Industrial Museum
+Oberhausen,Germany,Metronom Theater
+Oberhausen,Germany,Westfield Centro
+Bergen,Germany,Bergen Aquarium
+Bergen,Germany,Bergen Philharmonic Orchestra
+Bergen,Germany,Bergen Storsenter
+Bergen,Germany,Bergenhus Fortress
+Bergen,Germany,Bryggen
+Bergen,Germany,"Christ Church, Bergen"
+Bergen,Germany,Fløibanen
+Bergen,Germany,Fløyen
+Bergen,Germany,Grieg Hall
+Bergen,Germany,Koengen
+Zaragoza,Guatemala,Aljafería
+Zaragoza,Guatemala,World Heritage Site
+Zaragoza,Guatemala,Old Stock Exchange
+Zaragoza,Guatemala,Stone bridge
+Zaragoza,Guatemala,La Seo Cathedral
+Zaragoza,Guatemala,Pere Johan
+Zaragoza,Guatemala,El Pilar Basilica
+Zaragoza,Guatemala,alabaster
+Zaragoza,Guatemala,Damián Forment
+Zaragoza,Guatemala,frescoes
+Mali,Guinea,Ghana Empire
+Mali,Guinea,Mali Empire
+Mali,Guinea,History of the Mali Empire
+Mali,Guinea,Songhai Empire
+Mali,Guinea,Bamana Empire
+Mali,Guinea,Kénédougou Kingdom
+Mali,Guinea,Kaarta
+Mali,Guinea,Massina Empire
+Mali,Guinea,Toucouleur Empire
+Mali,Guinea,Wassoulou Empire
+Buenos Aires,Honduras,Timeline
+Buenos Aires,Honduras,Climate
+Buenos Aires,Honduras,Tourism
+Buenos Aires,Honduras,Category
+San Antonio,Honduras,Acequia Park
+San Antonio,Honduras,Alamo City Comic Con
+San Antonio,Honduras,Aquatica 
+San Antonio,Honduras,Artpace
+San Antonio,Honduras,Brackenridge Park
+San Antonio,Honduras,Brackenridge Park Golf Course
+San Antonio,Honduras,Buckhorn Saloon & Museum 
+San Antonio,Honduras,Dwight D. Eisenhower Park 
+San Antonio,Honduras,Fiesta San Antonio
+San Antonio,Honduras,Fort Sam Houston National Cemetery
+Aberdeen,Hong Kong S.A.R.,Aberdeen Arts Centre
+Aberdeen,Hong Kong S.A.R.,List of places in Aberdeen
+Aberdeen,Hong Kong S.A.R.,Aberdeen Student Show
+Aberdeen,Hong Kong S.A.R.,Beach Ballroom
+Aberdeen,Hong Kong S.A.R.,"Central Library, Aberdeen"
+Aberdeen,Hong Kong S.A.R.,Codona's Amusement Park
+Aberdeen,Hong Kong S.A.R.,Culture in Aberdeen
+Aberdeen,Hong Kong S.A.R.,Doonies Farm
+Aberdeen,Hong Kong S.A.R.,"King's College, Aberdeen"
+Aberdeen,Hong Kong S.A.R.,Mitchell's Hospital Old Aberdeen
+Guntur,India,Jinnah Tower
+Vijayawada,India,"Mary, mother of Jesus"
+Vijayawada,India,Hindu
+Vijayawada,India,Kanaka Durga
+Vijayawada,India,Vijayawada Railway Station
+Vijayawada,India,Vijayawada Bus Station
+Vijayawada,India,Vijayawada Airport
+Vijayawada,India,Dasara
+Vijayawada,India,Navaratri
+Aurangabad,India,Maqbara
+Aurangabad,India,Taj Mahal
+Aurangabad,India,Marathwada
+Aurangabad,India,Gautama Buddha
+Aurangabad,India,artificial waterfall
+Aurangabad,India,Malik Ambar
+Aurangabad,India,Aurangabad
+Aurangabad,India,Marathwada Agricultural University
+Aurangabad,India,Delhi Gate
+Aurangabad,India,Himayat Bagh
+Dhaka,India,Ahsan Manzil
+Dhaka,India,Architecture of Dhaka
+Dhaka,India,Bangladesh National Zoo
+Dhaka,India,Bara Katra
+Dhaka,India,Bhajahari Lodge
+Dhaka,India,Chhota Katra
+Dhaka,India,Chowk Bazaar
+Dhaka,India,Chowkbazar Thana
+Dhaka,India,"Christian cemetery, Dhaka"
+Dhaka,India,Curzon Hall
+Delhi,India,Parliament of India
+Delhi,India,Governor General of India
+Delhi,India,Qutb complex
+Delhi,India,Mehrauli
+Delhi,India,South Delhi
+Delhi,India,Qutub-ud-din Aibak
+Delhi,India,sandstone
+Delhi,India,Tomb of Sikandar Lodi
+Delhi,India,Bara Gumbad
+Delhi,India,Shisha Gumbad
+Shimla,India,"Annadale, Shimla"
+Shimla,India,"Christ Church, Shimla"
+Shimla,India,Dhingu Mata Temple
+Shimla,India,"Glen, Shimla"
+Shimla,India,Himachal State Museum
+Shimla,India,Indian Institute of Advanced Study
+Shimla,India,Jakhu Temple
+Shimla,India,"Kali Bari, Shimla"
+Shimla,India,Kalka–Shimla Railway
+Shimla,India,"Lower Bazaar, Shimla"
+Ladakh,India,Government of India
+Ladakh,India,Hanle
+Ladakh,India,Indian Astronomical Observatory
+Ladakh,India,Galdan Namchot
+Ladakh,India,Great Tibetan Marathon
+Ladakh,India,Ladakh International Film Festival
+Ladakh,India,Ladakh Marathon
+Ladakh,India,Losar
+Ladakh,India,Sindhu Darshan Festival
+Ladakh,India,Sindhu Pushkaram festival
+Bengaluru,India,botanical garden
+Bengaluru,India,Hyder Ali
+Bengaluru,India,flora
+Bengaluru,India,Bangalore
+Bengaluru,India,Kempe Gowda I
+Bengaluru,India,Richard Sankey
+Bengaluru,India,general
+Bengaluru,India,species
+Bengaluru,India,Kempegowda
+Bengaluru,India,Victoria Hospital
+Jabalpur,India,Marble Rocks
+Jabalpur,India,Dhuandhar Falls
+Jabalpur,India,"Chausath Yogini Temple, Jabalpur"
+Jabalpur,India,Kalchuri
+Jabalpur,India,Lamheta Rock Formations
+Jabalpur,India,Beohari Temple Complex
+Jabalpur,India,Ghughra Falls
+Jabalpur,India,Madan Mahal
+Jabalpur,India,Gond
+Jabalpur,India,Balancing Rock
+Kohima,India,Kisama Heritage Village
+Kohima,India,Kohima Botanical Garden
+Kohima,India,Kohima War Cemetery
+Kohima,India,"Mary Help of Christians Cathedral, Kohima"
+Kohima,India,Nagaland State Museum
+Kohima,India,Sakhrie Park
+Jaipur,India,Amer Fort
+Jaipur,India,City Palace
+Jaipur,India,Jal Mahal
+Jaipur,India,Diggi Palace
+Jaipur,India,Hawa Mahal
+Jaipur,India,Jaigarh Fort
+Jaipur,India,Nahargarh Fort
+Jaipur,India,Rambagh Palace
+Jaipur,India,Man Sagar Lake
+Jaipur,India,JAIGARH FORT
+Bali,India,Bajra Sandhi Monument
+Bali,India,Bali Arts Festival
+Bali,India,Bali Bird Park
+Bali,India,Bali Botanic Garden
+Bali,India,Bali Safari and Marine Park
+Bali,India,Bedugul
+Bali,India,Garuda Wisnu Kencana Cultural Park
+Bali,India,Garuda Wisnu Kencana statue
+Bali,India,Gitgit Waterfall
+Bali,India,Goa Gajah
+Chennai,India,Bay of Bengal
+Chennai,India,Fort St. George
+Chennai,India,Foreshore Estate
+Chennai,India,Chennai Lighthouse
+Chennai,India,MGR Memorial
+Chennai,India,Anna Memorial
+Chennai,India,Mahatma Gandhi
+Chennai,India,Annie Besant
+Chennai,India,Robert Caldwell
+Chennai,India,Thiruvalluvar
+Lucknow,India,Bara Imambara
+Lucknow,India,Chhota Imambara
+Lucknow,India,Imambara Shah Najaf
+Lucknow,India,Imambara Ghufran Ma'ab
+Lucknow,India,Sibtainabad Imambara
+Lucknow,India,"Rauza of Imam Hussain, Karbala Nasiruddin Haider"
+Lucknow,India,Rauza-e-Kazmain
+Lucknow,India,Rumi Darwaza
+Lucknow,India,Qaisar Bagh Palace Complex
+Lucknow,India,Charbagh Railway Station
+Oran,India,Albert Camus
+Oran,India,Miguel de Cervantes
+Oran,India,Paris
+Oran,India,Marseille
+Oran,India,Casablanca
+Oran,India,Lisbon
+Oran,India,Paul Bowles
+Oran,India,Arturo Pérez-Reverte
+Oran,India,Moriscos
+Oran,India,ITV
+Varanasi,India,Hindu temples in Varanasi
+Varanasi,India,Ghats in Varanasi
+Varanasi,India,Andhra Pradesh
+Varanasi,India,Andaman and Nicobar Islands
+Varanasi,India,Assam
+Varanasi,India,Bihar
+Varanasi,India,Delhi
+Varanasi,India,Chhattisgarh
+Varanasi,India,Goa
+Varanasi,India,Gujarat
+Howrah,India,Howrah Bridge
+Howrah,India,Howrah railway station
+Howrah,India,Nabanna 
+Howrah,India,"Rail Museum, Howrah"
+Howrah,India,Ramakrishna Mission
+Howrah,India,Santragachhi
+Howrah,India,Vidyasagar Setu
+Howrah,India,Vivekananda Setu
+North 24 Parganas district,India,Alambazar Math
+North 24 Parganas district,India,"Annapurna Temple, Titagarh"
+North 24 Parganas district,India,Aquatica 
+North 24 Parganas district,India,Baranagar Math
+North 24 Parganas district,India,Bibhutibhushan Wildlife Sanctuary
+North 24 Parganas district,India,Dakshineswar Kali Temple
+North 24 Parganas district,India,Gandhi Memorial Asram
+North 24 Parganas district,India,Mother's Wax Museum
+North 24 Parganas district,India,Nazrul Tirtha
+North 24 Parganas district,India,"New Town Plaza, Rajarhat"
+Gorontalo,Indonesia,corn
+Gorontalo,Indonesia,Songkok
+Gorontalo,Indonesia,President of Indonesia
+Gorontalo,Indonesia,Abdurrahman Wahid
+Gorontalo,Indonesia,Batik
+Gorontalo,Indonesia,Boalemo
+Gorontalo,Indonesia,Bone Bolango
+Gorontalo,Indonesia,Gorontalo
+Gorontalo,Indonesia,Pohuwato
+Gorontalo,Indonesia,North Gorontalo
+Naples,Italy,Certosa di San Martino
+Naples,Italy,Naples Cathedral
+Naples,Italy,San Francesco di Paola
+Naples,Italy,Gesù Nuovo
+Naples,Italy,Girolamini
+Naples,Italy,San Domenico Maggiore
+Naples,Italy,Santa Chiara
+Naples,Italy,San Paolo Maggiore
+Naples,Italy,"Santa Maria della Sanità, Naples"
+Naples,Italy,Santa Maria del Carmine
+Rome,Italy,List of fountains in Rome
+Rome,Italy,[1]
+Como,Italy,Life Electric
+Cologne,Italy,Cologne Cathedral
+Cologne,Italy,Gothic
+Cologne,Italy,World Heritage Site
+Cologne,Italy,Shrine of the Three Kings
+Cologne,Italy,relics
+Cologne,Italy,Three Magi
+Cologne,Italy,Twelve Romanesque churches
+Cologne,Italy,Roman times
+Cologne,Italy,St. Gereon
+Cologne,Italy,St. Maria im Kapitol
